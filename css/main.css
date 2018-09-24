@@ -1,0 +1,19 @@
+.center {
+	text-align: center;
+}
+
+.swePurple {
+	color: #551A8B;
+}
+
+.sweGray {
+	color: #808080;
+}
+
+.sweWhite {
+	color: white;
+}
+
+.unbold {
+	font-weight: normal;
+}
