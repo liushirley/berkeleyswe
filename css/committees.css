@@ -9,13 +9,29 @@ table {
 	background-color: rgb(54, 54, 56);
 }
 
+.cell {
+	width: 100%;
+}
+
 .cell-text {
 	border-style: hidden;
 	border-color: rgb(219, 207, 83);
 	border-width: 10px;
 	text-align: center;
-	padding: 110px;
-	margin: 50px;
+	padding-left: 75px;
+	padding-right: 75px;
+	margin-top: 90px;
+	margin-left: 75px;
+	margin-right: 75px;
+	width: 500px;
+}
+
+.cell-row {
+	vertical-align: top;
+}
+
+.cell-descriptions {
+	text-align: justify;
 }
 
 .profile-img {
@@ -56,6 +72,6 @@ table {
 	color: rgb(64, 47, 107);
 	font-family: Medio, optima, sans-serif;
 	text-align: center;
-	margin: 50px;
+	margin: 30px;
 }
 
