@@ -1,0 +1,77 @@
+@font-face { font-family: Medio; src: url('../fonts/Medio.otf'); }
+
+body {
+	background-color: rgb(255,255,255);
+}
+
+table {
+	margin: auto;
+	background-color: rgb(54, 54, 56);
+}
+
+.cell {
+	width: 100%;
+}
+
+.cell-text {
+	border-style: hidden;
+	border-color: rgb(219, 207, 83);
+	border-width: 10px;
+	text-align: center;
+	padding-left: 75px;
+	padding-right: 75px;
+	margin-top: 90px;
+	margin-left: 75px;
+	margin-right: 75px;
+	width: 500px;
+}
+
+.cell-row {
+	vertical-align: top;
+}
+
+.cell-descriptions {
+	text-align: justify;
+}
+
+.profile-img {
+	width: 300px;
+}
+
+.committee-names {
+	font-size: 2em;
+	color: white;
+	font-family: Medio, optima, sans-serif;
+	text-align: center;
+	margin-top: 30px;
+}
+
+.officers {
+	font-size: 1em;
+	color: white;
+	font-family: Medio, optima, sans-serif;
+	text-align: center;
+}
+
+.apprentices {
+	font-size: 1em;
+	color: white;
+	font-family: Medio, optima, sans-serif;
+	text-align: center;
+}
+
+.descriptions {
+	font-size: .8em;
+	color: white;
+	font-family: Medio, optima, sans-serif;
+	text-align: center;
+}
+
+#title {
+	font-size: 6em;
+	color: rgb(64, 47, 107);
+	font-family: Medio, optima, sans-serif;
+	text-align: center;
+	margin: 30px;
+}
+

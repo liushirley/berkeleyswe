@@ -1,0 +1,68 @@
+.center {
+	text-align: center;
+}
+
+/* COLORS */
+.bgPurple {
+	background-color: #551A8B;
+}
+
+.bgGray {
+	color: #808080;
+} 
+
+.bgWhite {
+	background-color: white;
+}
+
+.textPurple {
+	background-color: #551A8B;
+}
+.textGray {
+	color: #808080;
+}
+
+.textWhite {
+	color: white;
+}
+
+.unbold {
+	font-weight: normal;
+}
+.navbar-toggler {
+	border: 1px white;
+}
+
+.dropdown-toggle::after /* remove arrow */ {
+	display: none;
+}
+
+/*
+.btn-primary:focus .btn-primary:hover {
+	background-color: #551A8B;
+
+}
+*/
+
+.nav-link:hover {
+	color: #e6d4f7;
+}
+
+.dropdown-item.hover {
+	background-color: #e6d4f7;
+}
+
+#header-logo {
+	height: 3em;
+}
+
+/* FOOTER */
+
+footer {
+	background-color: #343a40;
+	color: white;
+}
+.vertical-align {
+	display: block;
+}
+

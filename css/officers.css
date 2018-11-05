@@ -1,0 +1,47 @@
+.center {
+	text-align: center;
+}
+
+.swePurple {
+	color: #551A8B;
+}
+
+.sweGray {
+	color: #808080;
+}
+
+.sweWhite {
+	color: white;
+}
+
+.row {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.unbold {
+	font-weight: normal;
+}
+
+.heading {
+	color: #551A8B;
+	padding: 10px;
+	font-family: "Palatino";
+	text-align: center;
+}
+
+.caption {
+	color: #551A8B;
+	font-size: 16px;
+	font-weight: bold;
+	font-family: "Palatino";
+	text-align: center;
+}
+
+.subcaption {
+	color: #808080;
+	font-size: 13px;
+	font-weight: bold;
+	font-family: "Palatino";
+	text-align: center;
+}
