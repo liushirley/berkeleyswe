@@ -18,25 +18,8 @@
 	font-weight: normal;
 }
 
-
-
-/* new */
-.container {
-	padding-right: 15px;
-  padding-left: 15px;
-	/*
-	border-color: blue;
-	border-style: solid;
-  border-width: 1px; */
-}
-
-.text {
-	padding-top: 15px;
-}
-
-.row {/*
-	border-color: red;
-	 margin-right: -15px;
-	margin-left: -15px; */
-
+.jumbotron {
+	background-color: #ba8ee2;
+	text-align: center;
+	color: white;
 }
