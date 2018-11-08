@@ -22,13 +22,6 @@
 	font-weight: normal;
 }
 
-<<<<<<< HEAD
-.jumbotron {
-	background-color: #ba8ee2;
-	text-align: center;
-	color: white;
-}
-=======
 .raleway {
 	font-family: 'Raleway', sans-serif;
 	font-weight: 600;
@@ -47,6 +40,15 @@
 .latoLight {
 	font-family: 'Lato', sans-serif;
 	font-weight: 300;
+}
+
+.outreach-jumbotron {
+	/** background-color: swePurple; **/
+	background:linear-gradient(rgba(57, 0, 132, 0.8), rgba(57, 0, 132,0.8)),
+						 url('../img/outreach/outreach.jpg');
+  background-position: 50% -60%;
+	text-align: center;
+	color: white;
 }
 
 @-webkit-keyframes Gradient {
@@ -96,7 +98,7 @@
 	animation: Gradient 35s ease infinite;
 }
 
-@media (max-width: 575.98px) { 
+@media (max-width: 575.98px) {
 	.gradient {
 	    height: 100%;
 	    /*width: 100%;*/
@@ -154,6 +156,7 @@
     padding: 80px 0;
 }
 
+
 /*.conta {
 	width: 75%;
 	height: 100%;
@@ -184,4 +187,3 @@
 	color: #ccccff;
 	line-height: 26px;
 }*/
->>>>>>> c4771e7771cced3429a5398fc7640db015c9c2c1
