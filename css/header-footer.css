@@ -16,7 +16,7 @@
 }
 
 .textPurple {
-	background-color: #551A8B;
+	color: #551A8B;
 }
 .textGray {
 	color: #808080;
@@ -56,6 +56,7 @@
 	height: 3em;
 }
 
+
 /* FOOTER */
 
 footer {
@@ -65,4 +66,28 @@ footer {
 .vertical-align {
 	display: block;
 }
+
+.icon {
+	float: left;
+	color: white;
+	padding: 8px;
+}
+.icon:hover {
+	color: #E6D4F7;
+}
+
+#icons {
+	margin: 10px 0px 10px 0px;
+}
+
+
+#bug-report {
+	font-style: italic;
+	color: white;
+}
+
+#bug-report:hover {
+	color: #E6D4F7;
+}
+
 
